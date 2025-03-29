@@ -1,16 +1,25 @@
-# competitive_coding_tracker
+# Contest Tracker
 
-A new Flutter project.
+A Flutter application that tracks competitive programming contests from Codeforces and CodeChef, with features to compare programmer profiles.
 
-## Getting Started
+![Demo GIF](demo.gif)
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+### Contest Tracking
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Codeforces Contests**: View upcoming contests with details like name, start time, and duration
+- **CodeChef Contests**: Access a comprehensive list of upcoming contests
+- **Add to Calendar**: One-click option to add contests to your Google Calendar
+- **Refresh**: Pull to refresh to get the latest contest information
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 👥 Profile Comparison
+
+- Compare two Codeforces profiles side by side
+- View and contrast:
+  - Current rating
+  - Maximum rating
+  - Contribution
+  - Friend count
+  - Account age
+- Saved handles for quick future comparisons
