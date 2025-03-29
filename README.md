@@ -13,7 +13,7 @@ A Flutter application that tracks competitive programming contests from Codeforc
 - **Add to Calendar**: One-click option to add contests to your Google Calendar
 - **Refresh**: Pull to refresh to get the latest contest information
 
-### 👥 Profile Comparison
+### Profile Comparison
 
 - Compare two Codeforces profiles side by side
 - View and contrast:
